@@ -49,7 +49,7 @@
 #### A FUNCTION INSIDE A CLASS IS CALLED A METHOD
 
         class User:
-          def__init__(*self*,full_name, birthday):
+          def__init__(self,full_name, birthday):
 
 
 ##### The name of the method is init with double underscores before and after the method
