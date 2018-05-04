@@ -48,10 +48,9 @@
 ##### *Some languages call initialization methods contstructors*
 #### A FUNCTION INSIDE A CLASS IS CALLED A METHOD
 
-### class User:
-###   def__init__(self,full_name, birthday):
+class User:
+  def__init__(self,full_name, birthday):
 
-### class User:
 
 
 
