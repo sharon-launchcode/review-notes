@@ -64,4 +64,4 @@
             self.name = full_name
 
 
-#### *self* dot, the FIELD NAME (name) and assign it a VALUE (full_name)
+#### Dot notation: *self.*, the FIELD NAME (name) and assign it a VALUE (full_name)
