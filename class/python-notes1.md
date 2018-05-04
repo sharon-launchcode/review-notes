@@ -71,7 +71,7 @@
     class User:
       def_init_(self, full_name, birthday):
         self.name = full_name
-        self.birthday = birthday
+        self.birthday = birthday #yyyymmdd
      
 ##### NOTICE no comma after the first self.name = full_name
 
@@ -80,8 +80,9 @@
 1. Provide Two values because the INIT method is expecting two values
 ####
 
-    user = User("David Bowie", 19710315)
+    user = User("David Bowie", "19710315")
     print(user.name)
     print(user.birthday)
 
    
+### NOTICE QUOTES AROUND DATE
