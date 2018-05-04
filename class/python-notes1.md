@@ -28,8 +28,14 @@
 ### Bowman
 ### >>>
 ### >>>
+###### Do not capitalize fields, and if you use more than one name in a field, separate by underscores
+### >>> first_name = "Arthur"
+### >>> last_name = "Clarke"
+##### Above are stand-alone variables, not attached to an object
 
-
-
+### >>> print(first_name, last_name)
+### Arthur Clarke
+### >>> print (user1.first_name, user1.last_name)
+### Dave Bowman
 
 
