@@ -1,6 +1,5 @@
-## NOTES FROM VIDEO
-
-#### Python Classes and Objects || Python Tutorial || Learn Python Programming
+## NOTES FROM VIDEO:
+## Python Classes and Objects || Python Tutorial || Learn Python Programming
 #### https://www.youtube.com/watch?v=apACNr7DC_s
 
 #### >>> class User:
@@ -17,5 +16,6 @@
 #### >>> user1.first_name = "Dave" 
 ##### example two -- also, notice no semicolon follows the value
 #### >>> user1.last_name = "Bowman"
+##### Since first name and last name are attached to the object user1, we call them FIELDS
 
 
