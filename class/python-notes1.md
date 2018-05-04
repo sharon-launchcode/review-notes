@@ -43,4 +43,15 @@
 1. >> Initialization
 1. >> Help Text
 
+##### First add an init method
+##### *init is short for initialization*
+##### *Some languages call initialization methods contstructors*
+#### A FUNCTION INSIDE A CLASS IS CALLED A METHOD
+
+### class User:
+###   def__init__(self,full_name, birthday):
+
+### class User:
+
+
 
