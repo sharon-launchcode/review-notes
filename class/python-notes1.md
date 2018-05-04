@@ -78,8 +78,10 @@
 ### TO CREATE A USER USING THE INIT METHOD
 1. Type in the name of the class, and parenthesis.
 1. Provide Two values because the INIT method is expecting two values
+####
 
-
-    user = User("Dave Bowman", 19710315)
+    user = User("David Bowie", 19710315)
     print(user.name)
-    print(user.birhday)
+    print(user.birthday)
+
+   
