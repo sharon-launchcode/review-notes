@@ -65,3 +65,12 @@
 
 
 #### Dot notation: *self.*, the FIELD NAME (name) and assign it a VALUE (full_name)
+##### We are storing the full_name in a FIELD called name
+##### We will store the value of birthday in a FIELD also called birthday
+
+    class User:
+      def_init_(self, full_name, birthday):
+        self.name = full_name
+        self.birthday = birthday
+     
+##### NOTICE no comma after the first self.name = full_name
