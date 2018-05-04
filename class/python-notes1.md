@@ -20,6 +20,16 @@
 #### *FIELD: Data attached to an object*
 ##### To see that the data is in the user1 object, you can PRINT them
 ### >>> print(user1.first_name)
+### Dave
+##### You access the data the same way you assigned it
+##### Type the name of the object, dot, then the name of the field.
+###### Printing the last name
+### >>> print(user1.last_name)
+### Bowman
+### >>>
+### >>>
+
+
 
 
 
