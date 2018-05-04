@@ -9,6 +9,7 @@
 ###### To make a user, type in the name of the class followed by parenthesis
 #### >>> user1 = User()
 ##### This looks like you are calling a method .... and you ARE
-##### user1 is an INSTANCE of the user class
+##### user1 is an INSTANCE of the User class
+##### You can also call user1 an OBJECT
 
 
