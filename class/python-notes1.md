@@ -55,7 +55,7 @@
 ##### The name of the method is init with double underscores before and after the method
 ### This method is called every time you CREATE a new instance of the class
 ### The first argument of this class is the word 'self', which is a reference to the new object being created.
-##### You can add additional arguments after self
+##### You can add additional arguments after self; in the example below full_name and birthday are the additional arguments
 ##### First store these VALUES to FIELDS in the OBJECT
 ##### We do this by typing SELF, then DOT, then the FIELD NAME, and then assign it a value.
 
@@ -64,3 +64,4 @@
             self.name = full_name
 
 
+#### *self* dot, the FIELD NAME (name) and assign it a VALUE (full_name)
