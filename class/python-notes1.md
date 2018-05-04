@@ -38,4 +38,9 @@
 ### >>> print (user1.first_name, user1.last_name)
 ### Dave Bowman
 ##### Classes are used to make objects, and each object can have different objects for the same variable name
+## CLASS FEATURES
+1. >> Methods
+1. >> Initialization
+1. >> Help Text
+
 
