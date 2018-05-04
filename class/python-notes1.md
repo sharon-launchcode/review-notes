@@ -8,5 +8,6 @@
 ###### Now that we have created a class, we can use it to define users
 ###### To make a user, type in the name of the class followed by parenthesis
 #### >>> user1 = User()
+##### This looks like you are calling a method .... and you ARE
 
 
