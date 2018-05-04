@@ -16,6 +16,10 @@
 ### >>> user1.first_name = "Dave" 
 ##### example two -- also, notice no semicolon follows the value
 ### >>> user1.last_name = "Bowman"
-##### Since first name and last name are attached to the object user1, we call them FIELDS
+##### Since first name and last name are attached to the object user1, we call them FIELDS.  They store data SPECIFIC to user1
+#### *FIELD: Data attached to an object*
+##### To see that the data is in the user1 object, you can PRINT them
+### >>> print(user1.first_name)
+
 
 
